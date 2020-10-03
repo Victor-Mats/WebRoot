@@ -1,39 +1,18 @@
 body {
     font-family: Sans-Serif;
-    background-color: rgb(46, 51, 47);
 }
 
 div{
+    border: solid;
     background-image: linear-gradient(rgb(229, 240, 230), rgb(187, 238, 193));
-
-    margin: 20px;
-    padding: 30px;
+    padding: 10px;
     border-radius: 10px;
-}
-
-h1{
-    background-color: rgb(146, 216, 167);
-    border-radius: 5px;
-    text-align: center;
-    padding: 20px;
-
-    max-width: 1080px;
-    margin: auto;
-    margin-bottom: 20px;
-
-}
-
-img{
-    width: 50px;
 }
 
 p{
     background-color: rgb(235, 250, 235);
     border-radius: 5px;
     padding: 20px;
-    max-width: 1080px;
-    margin: auto;
-    margin-top: 15px;
     line-height: 1.5;
 }
 
@@ -44,7 +23,8 @@ ul{
 }
 
 a{
-    background-color: rgb(146, 216, 167);
+    background-image: linear-gradient(rgb(182, 214, 187), rgb(173, 221, 179));
     border-radius: 5px;
     padding: 8px;
 }
+
